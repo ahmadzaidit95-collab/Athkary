@@ -1,51 +1,69 @@
-# 🕌 أذكاري | Athkary
-
-تطبيق إسلامي بسيط يساعدك على المحافظة على الأذكار والأدعية اليومية بطريقة سهلة وهادئة.
-
-## ✨ Features
-
-- 🌅 أذكار الصباح
-- 🌙 أذكار المساء
-- 🤲 الأدعية
-- 📿 المسبحة
-- 🌗 الوضع الفاتح والوضع الغامق
-- 🔍 البحث في أقسام الأدعية
-- 🔢 عداد للأذكار
-- 📱 واجهة عربية RTL
-- 🎨 تصميم بسيط وهادئ وسهل الاستخدام
-
-## 🛠️ Technologies
-
-- Flutter
-- Dart
-- Material Design
-- Provider
-
 ## 📸 Screenshots
 
 ### 🏠 Home
 
-![Home](screenshots/home.png)
+#### Light Mode
+![Home Light](screenshots/home.jpeg)
+
+#### Dark Mode
+![Home Dark](screenshots/img11.jpeg)
+
+---
 
 ### 🌅 أذكار الصباح
 
-![Morning Adhkar](screenshots/morning.png)
+#### Light Mode
+![Morning Adhkar Light](screenshots/morning2.jpeg)
+
+#### Dark Mode
+![Morning Adhkar Dark](screenshots/morninng.jpeg)
+
+---
 
 ### 🌙 أذكار المساء
 
-![Evening Adhkar](screenshots/evening.png)
+#### Light Mode
+![Evening Adhkar Light](screenshots/evening.jpeg)
 
-### 🤲 الأدعية
+#### Dark Mode
+![Evening Adhkar Dark](screenshots/evening2.jpeg)
 
-![Duas](screenshots/duas.png)
+---
 
 ### 📿 المسبحة
 
-![Tasbeeh](screenshots/tasbeeh.png)
+#### Light Mode
+![Tasbeeh Light](screenshots/img4.jpeg)
 
-## 🚀 Getting Started
+#### Dark Mode
+![Tasbeeh Dark](screenshots/img5.jpeg)
 
-Clone the repository:
+---
 
-```bash
-git clone https://github.com/ahmadzaidit95-collab/Athkary.git
+### 🤲 الأدعية
+
+#### Light Mode
+![Duas Light](screenshots/img6.jpeg)
+
+#### Dark Mode
+![Duas Dark](screenshots/img7.jpeg)
+
+---
+
+### 📖 أذكار الأذان
+
+#### Light Mode
+![Adhan Light](screenshots/img9.jpeg)
+
+#### Dark Mode
+![Adhan Dark](screenshots/img8.jpeg)
+
+---
+
+### 📖 أذكار بعد الصلاة
+
+#### Light Mode
+![After Prayer Light](screenshots/img9%281%29.jpeg)
+
+#### Dark Mode
+![After Prayer Dark](screenshots/img11%281%29.jpeg)
