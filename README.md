@@ -1,34 +1,51 @@
-# أذكاري — Flutter
+# 🕌 أذكاري | Athkary
 
-## التشغيل (مرة واحدة)
-1. افتح ترمنال جوه الفولدر ده (اللي فيه pubspec.yaml).
-2. ولّد فولدرات المنصات (android / ios / web ...):
+تطبيق إسلامي بسيط يساعدك على المحافظة على الأذكار والأدعية اليومية بطريقة سهلة وهادئة.
 
-       flutter create --project-name adhkari .
+## ✨ Features
 
-   لو لقيت lib/main.dart اتبدّل بالعدّاد الافتراضي، رجّع نسختك من الـ zip.
-3. نزّل الحزم:
+- 🌅 أذكار الصباح
+- 🌙 أذكار المساء
+- 🤲 الأدعية
+- 📿 المسبحة
+- 🌗 الوضع الفاتح والوضع الغامق
+- 🔍 البحث في أقسام الأدعية
+- 🔢 عداد للأذكار
+- 📱 واجهة عربية RTL
+- 🎨 تصميم بسيط وهادئ وسهل الاستخدام
 
-       flutter pub get
+## 🛠️ Technologies
 
-4. شغّل:
+- Flutter
+- Dart
+- Material Design
+- Provider
 
-       flutter run
+## 📸 Screenshots
 
-## أندرويد
-لو هتبني نسخة release، ضيف في android/app/src/main/AndroidManifest.xml
-قبل <application>:
+### 🏠 Home
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+![Home](screenshots/home.png)
 
-(مطلوب عشان google_fonts تحمّل الخطوط.)
+### 🌅 أذكار الصباح
 
-## الهيكل
-    lib/
-      main.dart
-      core/theme/     app_colors, app_theme, theme_controller
-      core/utils/     responsive.dart
-      features/home/  home_screen.dart
-      features/placeholder/
-    assets/images/    صور البانر والخلفيات
-    assets/icons/     الأيقونات النهائية
+![Morning Adhkar](screenshots/morning.png)
+
+### 🌙 أذكار المساء
+
+![Evening Adhkar](screenshots/evening.png)
+
+### 🤲 الأدعية
+
+![Duas](screenshots/duas.png)
+
+### 📿 المسبحة
+
+![Tasbeeh](screenshots/tasbeeh.png)
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ahmadzaidit95-collab/Athkary.git
