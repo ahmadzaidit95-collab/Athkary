@@ -59,11 +59,3 @@
 ![Adhan Dark](screenshots/img8.jpeg)
 
 ---
-
-### 📖 أذكار بعد الصلاة
-
-#### Light Mode
-![After Prayer Light](screenshots/img9%281%29.jpeg)
-
-#### Dark Mode
-![After Prayer Dark](screenshots/img11%281%29.jpeg)
